@@ -1,0 +1,862 @@
+1100001E	Domkellerstolz White 100cl tetra	9,50
+1100002E	Domkellerstolz Red 100cl tetra	9,50
+1100051E	Blue Nun Riesling 75cl	11,50
+1100056E	Blue Nun Rivaner Riesling 75cl	10,00
+1100058E	Blue Nun Pinot Noir 75cl	12,00
+1100059E	Blue Nun Medium White 75cl	10,00
+1100060E	Blue Nun Medium Red 75cl	11,50
+1100061E	Blue Nun White Alcohol-Free 75cl	0,00
+1100062E	Blue Nun Gewurztraminer 75cl	11,00
+1100063E	Blue Nun Red Alcohol-Free 75cl	0,00
+1100065E	Blue Nun Delicate White 75cl	5,50
+1100066E	Blue Nun Delicate Rose 75cl	5,50
+1100067E	Blue Nun Original 75cl	10,00
+1100068E	Blue Nun Authentic White 75cl	10,00
+1100070E	Blue Nun Rivaner 300cl BIB	8,50
+1100071E	Blue Nun Merlot 300cl BIB	12,50
+1100085E	Angel Reef Angel White 75cl	9,50
+1100086E	Angel Reef Reef Red 75cl	8,50
+1100092E	Grand Jardin Red Tetra 100cl	10,50
+1100093E	Grand Jardin White Tetra 100cl	10,00
+1100102E	Dreamer Sweet Red 100cl tetra	10,50
+1100103E	Dreamer Sweet White 100cl tetra	10,00
+1100150E	Dreamer Late Harvest Chardonnay 75cl	12,00
+1100152E	Dreamer Late Harvest Riesling 75cl	11,00
+1100153E	Dreamer Late Harvest Rose 75cl	11,00
+1100155E	Dreamer Late Harvest Cabernet 75cl	11,00
+1100254E	Dreamer Late Harvest Shiraz 75cl	12,50
+1100255E	Dreamer Late Harvest Pinot Grigio 75cl	11,50
+1100300E	Dreamer Late Harvest Chardonnay 300cl BIB	11,00
+1100301E	Dreamer Late Harvest Cabernet 300cl BIB	11,00
+1100302E	Dreamer Late Harvest Rose 300cl BIB	12,50
+1100303E	Dreamer Late Harvest Riesling 300cl BIB	12,00
+1100304E	Dreamer Late Harvest Shiraz 300cl BIB	12,50
+1100322E	Dreamer F&F Cabernet Sauvignon-Merlot 75cl	12,00
+1100323E	Dreamer F&F Muscat-Chardonnay 75cl	11,00
+1100400E	J.P.Chenet Rose Medium Sweet 18.7cl	11,50
+1100401E	J.P.Chenet Red Medium Sweet 18.7cl	12,00
+1100402E	J.P.Chenet White Medium Sweet 18.7cl	11,50
+1100403E	J.P.Chenet Cabernet-Syrah 18.7cl	13,00
+1100430E	J.P.Chenet White Medium Sweet 75cl	10,50
+1100431E	J.P.Chenet Rose Medium Sweet 75cl	11,50
+1100432E	J.P.Chenet Red Medium Sweet 75cl	11,00
+1100450E	J.P.Chenet Cabernet-Syrah 75cl	12,00
+1100451E	J.P.Chenet Colombard-Chardonnay 75cl	11,50
+1100452E	J.P.Chenet Merlot 75cl	13,00
+1100455E	J.P.Chenet Chardonnay 75cl	13,00
+1100470E	J.P.Chenet Merlot 300cl BIB	13,00
+1100471E	J.P.Chenet Cabernet-Syrah 300cl BIB	12,00
+1100472E	J.P.Chenet Colombard-Chardonnay 300cl BIB	11,50
+1100475E	J.P.Chenet Medium Sweet Red 300cl BIB	11,50
+1100476E	J.P.Chenet Medium Sweet White 300cl BIB	11,00
+1100550E	Louis Eschenauer Chardonnay 75cl	12,50
+1100551E	Louis Eschenauer Cabernet Sauvignon 75cl	12,00
+1100552E	Louis Eschenauer Bordeaux Blanc 75cl	12,00
+1100553E	Louis Eschenauer Bordeaux Rouge 75cl	12,00
+1100610E	Chateau Fonfroide Bordeaux Red 75cl	13,00
+1100611E	Chateau Fonfroide Bordeaux White 75cl	12,50
+1100612E	Chateau Vieux Laroque Bordeaux 75cl	13,50
+1100614E	Chateau Haut Mouleyre Bordeaux Red 300cl BIB	12,50
+1100647E	Pasquier Desvignes Pinot Noir 75cl	12,50
+1100648E	Pasquier Desvignes Cote de Provence 75cl	12,50
+1100649E	Pasquier Desvignes Cotes du Rhone 75cl	13,50
+1100650E	Pasquier Desvignes Chablis 75cl	12,00
+1100651E	Marquis de Goulaine Rose d'Anjou 75cl	11,00
+1100700E	Michel Leon Riesling 75cl	12,00
+1100701E	Michel Leon Gewurztraminer 75cl	12,50
+1100720E	Passion Hill Riesling 75cl	8,50
+1100721E	Passion Hill Dornfelder 75cl	11,00
+1100725E	Raymond Huet Bordeaux Michel Rolland 75cl	13,00
+1100812E	Franz Hoffner Spätlese 75cl	11,50
+1100813E	Franz Hoffner Riesling Premium 75cl	11,50
+1100814E	Franz Hoffner Weisswein 75cl	11,50
+1100815E	Franz Hoffner Riesling 75cl	8,50
+1100816E	Franz Hoffner Riesling 300cl BIB	8,50
+1100825E	Kuhlberg Riesling 75cl	8,50
+1100826E	Kuhlberg Weisswein 75cl	11,50
+1100830E	Lions Head Chenin Blanc 75cl	12,50
+1100831E	Lions Head Cabernet Sauvignon 75cl	13,00
+1100832E	Lions Head Pinotage 75cl	12,50
+1100833E	Lions Head Medium Sweet White 75cl	0,00
+1100834E	Lions Head Medium Sweet Red 75cl	0,00
+1100840E	Lions Head Chenin Blanc 300cl BIB	12,50
+1100841E	Lions Head Pinotage 300cl BIB	12,50
+1100850E	Lelaka Chenin Blanc 75cl	0,00
+1100851E	Lelaka Cabernet Sauvignon 75cl	0,00
+1100852E	Lelaka Pinotage 75cl	0,00
+1100853E	Lelaka Rose 75cl	0,00
+1100856E	Lelaka Chenin Blanc 300cl	0,00
+1100857E	Lelaka Cabernet Sauvignon 300cl	0,00
+1100860E	Oude Kaap Elegant Wit 75cl	11,50
+1100861E	Oude Kaap Cabernet-Merlot 75cl	13,50
+1100870E	Oude Kaap Reserve Chenin Blanc 75cl	12,50
+1100871E	Oude Kaap Reserve Chardonnay 75cl	13,50
+1100872E	Oude Kaap Reserve Pinotage 75cl	13,50
+1100873E	Oude Kaap Reserve Cabernet 75cl	13,50
+1100880E	Oude Kaap Chardonnay 300cl BIB	13,50
+1100881E	Oude Kaap Cabernet Sauvignon 300cl BIB	13,50
+1100890E	La Terre Blanc 75cl	10,50
+1100891E	La Terre Rouge 75cl	10,50
+1100892E	Helfrich Pinot Gris 75cl	13,00
+1100893E	Helfrich Riesling 75cl	12,50
+1100894E	Belles Vignes Grenache-Syrah-Marselan 75cl	13,00
+1100895E	Belles Vignes Chardonnay-Viogner 75cl	13,00
+1100900E	Drouhin Laforet Chardonnay 75cl	13,00
+1100901E	Drouhin Laforet Pinot Noir 75cl	12,50
+1100902E	Drouhin Rully 75cl	12,50
+1100905E	Drouhin Chablis 1er Cru 75cl	12,50
+1100908E	Drouhin Beaune Clos des Mouches 75cl	13,00
+1100909E	Drouhin Morgon 75cl	13,00
+1100910E	Drouhin Morey-Saint-Denis 75cl	13,00
+1100912E	Drouhin Chambolle-Musigny 75cl	13,00
+1100913E	Drouhin Volnay-Clos des Chenes 75cl	13,00
+1100916E	Drouhin Cote de Beaune AC Rouge 75cl	13,00
+1100917E	Drouhin Macon-Bussieres Les Clos 75cl	13,00
+1100918E	Drouhin Meursault AC 75cl	13,00
+1100950E	Hugel Sylvaner 75cl	12,50
+1100951E	Hugel Tradition 75cl	12,00
+1100952E	Hugel Gentil 75cl	12,00
+1100953E	Hugel Riesling 75cl	12,00
+1100954E	Hugel Gewurztraminer 75cl	13,50
+1100956E	Hugel Pinot Gris Classic 75cl	12,50
+1100959E	Hugel Riesling Jubilee 75cl	12,50
+1101000E	Guigal Cotes-du-Rhone Rouge 75cl	13,00
+1101001E	Guigal Crozes-Hermitage 75cl	12,50
+1101002E	Guigal Chateauneuf-du-Pape 75cl	13,50
+1101048E	Rothschild Cadet d´Oc Pinot Noir 75cl	12,50
+1101050E	Rothschild Cadet d`Oc Chardonnay 75cl	13,00
+1101051E	Rothschild Cadet d`Oc Cabernet 75cl	13,50
+1101052E	Rothschild Viognier Pays d`Oc 75cl	13,00
+1101055E	Rothschild Mouton Cadet Bordeaux Blanc 75cl	12,00
+1101056E	Rothschild Mouton Cadet Bordeaux Rouge 75cl	12,50
+1101057E	Rothschild Mouton Cadet Graves Blanc 75cl	12,00
+1101058E	Rothschild Mouton Cadet Medoc 75cl	13,50
+1101060E	Rothschild Mouton Cadet St-Emilion 75cl	13,50
+1101061E	Rothschild Mouton Cadet Sauternes 75cl	13,50
+1101062E	Rothschild Domaine de Baron 'Arques Limoux AC 75cl	14,50
+1101063E	Rothschild Chateau d`Armailhac Pauillac AC 75cl	12,50
+1101071E	Rothschild Mouton Cadet Vintage Bordeaux AC 75cl	13,50
+1101080E	Rothschild Mouton Cadet Blanc Cannes Edition 75cl	12,00
+1101081E	Rothschild Mouton Cadet Rose Cannes Edition 75cl	12,50
+1101082E	Rothschild Mouton Cadet Rouge Cannes Edition 75cl	12,50
+1101104E	Rothschild Escudo Rojo Chardonnay 75cl	14,00
+1101105E	Rothschild Escudo Rojo 75cl	13,50
+1101106E	Rothschild Escudo Rojo Syrah 75cl	14,50
+1101107E	Rothschild Escudo Rojo Carmenere 75cl	14,00
+1101170E	Ricasoli Chianti del Barone 75cl	13,00
+1101175E	Ricasoli Castello di Brolio 75cl	13,50
+1101176E	Ricasoli Torricella 75cl	14,00
+1101179E	Ricasoli 1141 Chianti Classico DOCG 75cl	13,50
+1101180E	Ricasoli Albia Rose Toscana IGT 75cl	12,50
+1101181E	Ricasoli Granello Bianco Toscana IGT 50cl	12,00
+1101228E	Tommasi Capinera Gialla Moscato 75cl	5,00
+1101229E	Tommasi Bosco del Gal Custoza DO 75cl	12,00
+1101230E	Tommasi Terra dei Ciliegi 75cl	12,00
+1101231E	Tommasi Bianco di Custoza 75cl	12,00
+1101234E	Tommasi Soave Classico 75cl	12,00
+1101235E	Tommasi Valpolicella 75cl	12,00
+1101236E	Tommasi Le Volpare Soave 75cl	12,00
+1101237E	Tommasi Le Fornaci Lugana 75cl	12,00
+1101238E	Tommasi Le Rosse Pinot Grigio 75cl	12,00
+1101239E	Tommasi Rafael Valpolicella Classico Superiore 75cl	12,50
+1101242E	Tommasi Ripasso 'I Pianeti' 75cl	12,50
+1101244E	Tommasi Ripasso Valpolicella 75cl	13,00
+1101245E	Tommasi Crearo della Conca d'Oro 75cl	13,50
+1101246E	Tommasi Amarone 37.5cl	15,00
+1101247E	Tommasi Amarone 75cl	15,00
+1101248E	Tommasi Arele Verona IGT Rosso 75cl	13,00
+1101250E	Tommasi Graticcio Appassionato Red 75cl	13,00
+1101251E	Tommasi Adorato Appassionato White 75cl	13,00
+1101252E	Tommasi Graticcio & Adorato Italian Duet 2x75cl	13,00
+1101253E	Tommasi Graticcio Appassionato Red 300cl BIB	13,00
+1101254E	Tommasi Adorato Appassionato White 300cl BIB	13,00
+1101255E	Tommasi Baciorosa Appassionato Rose 75cl	13,00
+1101256E	Tommasi Graticcio Appassionato Red 75cl RIMI	13,00
+1101257E	Tommasi Caseo Pinot Nero 75cl	13,00
+1101258E	Tommasi Graticcio Appassionato Red 37.5cl	13,00
+1101301E	Torres Coronas Tempranillo 75cl	13,00
+1101302E	Torres Gran Coronas Cabernet 75cl	13,50
+1101303E	Torres Coronas Tempranillo 300cl BIB	13,50
+1101321E	Torres Vina Esmeralda 75cl	11,50
+1101322E	Torres Vina Esmeralda 300cl BIB	11,50
+1101329E	Torres Sangre de Toro 18.75cl	13,50
+1101330E	Torres Sangre de Toro 37.5cl	13,50
+1101331E	Torres Sangre de Toro 75cl	13,50
+1101332E	Torres Sangre de Toro 300cl BIB	13,50
+1101333E	Torres Gran Sangre De Toro 75cl	13,50
+1101334E	Torres Sangre de Toro Rose 75cl	13,50
+1101335E	Torres Sangre de Toro White Wine 75cl	11,50
+1101336E	Torres Gran Sangre de Toro 300cl BIB	14,00
+1101349E	Torres San Valentin Parellada 18.7cl	11,00
+1101351E	Torres San Valentin Parellada 75cl	11,00
+1101353E	Torres San Valentin Garnacha 75cl	13,50
+1101354E	Torres San Valentin Parellada 300cl BIB	11,00
+1101356E	Torres San Valentin Special Edition 75cl	10,50
+1101372E	Torres Altos Ibericos Crianza 75cl	14,00
+1101373E	Torres Verdeo Verdejo 75cl	13,00
+1101374E	Torres Altos Ibericos Crianza 150cl	13,50
+1101375E	Torres Celeste Crianza 150cl	14,00
+1101376E	Torres Altos Ibericos Crianza 18.7cl	13,50
+1101386E	Torres Natureo Syrah 75cl	0,50
+1101388E	Torres Atrium Chardonnay 75cl	13,00
+1101389E	Torres Natureo Muscat 18.75cl	0,50
+1101390E	Torres Natureo Muscat 75cl	0,50
+1101391E	Torres Atrium Merlot 75cl	13,50
+1101392E	Torres Waltraud Riesling 75cl	13,00
+1101394E	Torres Celeste Crianza 75cl	13,50
+1101395E	Torres Salmos 75cl	14,50
+1101396E	Torres Fransola Sauvignon Blanc 75cl	13,00
+1101397E	Torres Mas Borras Pinot Noir 75cl	13,50
+1101398E	Torres Mas La Plana Cabernet 75cl	13,50
+1101399E	Torres Milmanda Chardonnay 75cl	14,00
+1101402E	Marimar Estate Chardonnay 75cl	14,00
+1101431E	Jean Leon Cabernet Reserva 75cl	13,00
+1101434E	Jean Leon Cabernet Sauvignon Gran Reserva 3*75cl	14,00
+1101435E	Jean Leon Cab.Sauvignon Gran Reserva 2000 75cl	13,50
+1101436E	Jean Leon Cab.Sauvignon Gran Reserva 2001 75cl	14,00
+1101437E	Jean Leon Cab.Sauvignon Gran Reserva 2003 75cl	13,50
+1101451E	Torres Santa Digna Sauvignon Blanc 75cl	13,50
+1101452E	Torres Santa Digna Chardonnay 75cl	13,50
+1101453E	Torres Santa Digna Cabernet Rose 75cl	14,00
+1101455E	Torres Santa Digna Cabernet Sauvignon 75cl	13,50
+1101457E	Torres Santa Digna Gewurztraminer 75cl	13,50
+1101458E	Torres Santa Digna Pinot Noir 75cl	13,00
+1101459E	Torres Santa Digna Riesling 75cl	13,00
+1101460E	Torres Las Mulas Cab. Sauv.-Cab. Franc 300cl BIB	14,00
+1101461E	Torres Las Mulas Cabernet Sauvignon 75cl	13,50
+1101462E	Torres Las Mulas Viognier 75cl	14,00
+1101463E	Torres Las Mulas Sauvignon Blanc 75cl	13,00
+1101464E	Torres Las Mulas Carmenere 75cl	14,00
+1101470E	Torres Cordillera Carignan 75cl	13,50
+1101471E	Torres Cordillera Chardonnay 75cl	13,50
+1101472E	Torres Manso de Velasco Cabernet 75cl	13,50
+1101473E	Torres Cordillera Carmenere 75cl	14,00
+1101474E	Torres Cordillera Carm.2007 75cl	14,00
+1101480E	Torres Days of Summer Muscat 75cl	13,00
+1101481E	Torres Reserva de Pueblo Pais 75cl	13,00
+1101500E	Museum Vinea Crianza Cigales DO 75cl	13,50
+1101501E	Museum Reserva Cigales DO 75cl	14,00
+1101502E	Museum Reserva Cigales DO 150cl	13,50
+1101522E	El Coto Crianza 75cl	12,50
+1101525E	El Coto Coto de Imaz Reserva 75cl	12,50
+1101526E	El Coto Coto de Imaz Gran Reserva 75cl	13,00
+1101601E	Gran Castillo Cabernet Sauvignon 75cl	12,50
+1101602E	Gran Castillo Shiraz 75cl	12,50
+1101603E	Gran Castillo Viura & Chardonnay 75cl	11,50
+1101610E	Gran Castillo Shiraz 300cl BIB	12,00
+1101611E	Gran Castillo Planta Nova-Moscato 300cl BIB	10,50
+1101630E	Gran Castillo Moscatel 75cl	12,50
+1101631E	Gran Castillo Tempranillo Rose 75cl	12,50
+1101632E	Gran Castillo Tempranillo 75cl	12,50
+1101680E	Gran Castillo Selection Chardonnay 75cl	12,50
+1101681E	Gran Castillo Selection Cabernet 75cl	12,50
+1101683E	Gran Castillo Selection Shiraz 75cl	13,00
+1101684E	Gran Castillo Selection Sauvignon Blanc 75cl	11,00
+1101685E	Gran Castillo Selection Moscato-Viura Blue 75cl	11,00
+1101695E	Gran Castillo Signature Reserva 75cl	13,50
+1101706	        Gran Castillo Cab.Rose 150cl BIB	11,50
+1101707	        Gran Castillo Sauv.Blanc 150cl BIB	12,00
+1101709	         Gran Castillo Chardonnay 150cl BIB	13,00
+1101710	         Gran Castillo Cab.Sauvignon 150cl BIB	13,00
+1102202E	Teliani Valley Tsinandali 75cl	12,50
+1102203E	Teliani Valley Pirosmani 75cl	11,50
+1102204E	Teliani Valley Saperavi 75cl	12,50
+1102205E	Teliani Valley Tvishi 75cl	11,00
+1102207E	Teliani Valley Kindzmarauli 75cl	11,00
+1102209E	Teliani Valley Khvanchkara 75cl	11,50
+1102212E	Teliani Valley Mukuzani 75cl	13,00
+1102213E	Old Gruzia Saperavi 75cl	13,00
+1102214E	Old Gruzia Alazani White 75cl	12,00
+1102215E	Old Gruzia Alazani Red 75cl	12,00
+1102216E	Old Gruzia Rkatsiteli 75cl	12,00
+1102217E	Old Gruzia Alaverdi Red 75cl	12,00
+1102218E	Old Gruzia Alaverdi White 75cl	12,00
+1102219E	Teliani Valley Tsinandali Oak Aged 75cl	12,50
+1102220E	Teliani Valley Samshvenisi Kvevri 75cl	13,00
+1102221E	Teliani Glekhuri Rkatsiteli Qvevri 75cl	13,00
+1102222E	Teliani Valley Ojaleshi 75cl	12,00
+1102230E	Teliani Valley Alazani White 75cl	12,00
+1102231E	Teliani Valley Alazani Red 75cl	12,00
+1102310E	Vina Maipo Semi Sweet White 75cl	12,50
+1102311E	Vina Maipo Semi Sweet Red 75cl	13,00
+1102320E	Vina Maipo Sauvignon-Chardonnay 75cl	13,00
+1102321E	Vina Maipo Carmenere-Cabernet 75cl	13,00
+1102322E	Vina Maipo Cabernet Sauvignon-Merlot 75cl	12,00
+1102350E	Vina Maipo Chardonnay 75cl	13,00
+1102351E	Vina Maipo Sauvignon Blanc 75cl	12,50
+1102352E	Vina Maipo Cabernet Sauvignon 75cl	13,00
+1102353E	Vina Maipo Syrah 75cl	13,50
+1102354E	Vina Maipo Carmenere 75cl	12,50
+1102356E	Vina Maipo Moscato Semi Sweet 75cl	9,50
+1102380E	Vina Maipo Chardonnay 300cl BIB	13,00
+1102381E	Vina Maipo Cabernet Sauvignon 300cl BIB	13,00
+1102382E	Vina Maipo Sauvignon Blanc 300cl BIB	12,50
+1102390E	Vina Maipo Chardonnay 300cl BIB Winter Edition	13,00
+1102391E	Vina Maipo Cab.Sauvignon 300cl BIB Winter Edition	12,50
+1102392E	Vina Maipo Sauv.Blanc 300cl BIB Winter Edition	12,50
+1102400E	Vina Maipo Reserva Vitral Chardonnay 75cl	13,50
+1102401E	Vina Maipo Reserva Vitral Cabernet 75cl	13,50
+1102402E	Vina Maipo Reserva Vitral Syrah 75cl	14,00
+1102403E	Vina Maipo Reserva Vitral Carmenere 75cl	13,50
+1102411E	Vina Maipo Gran Devocion Sauvignon Blanc 75cl	13,50
+1102412E	Vina Maipo Gran Devocion Petite Sirah 75cl	14,50
+1102431E	Vina Maipo Protegido Cabernet Sauvignon 75cl	14,50
+1102432E	Vina Maipo Alto Tajamar 75cl	14,50
+1102555E	Sunrise Carmenere 75cl	13,00
+1102720E	Trivento Mixtus Cabernet-Merlot 75cl	13,00
+1102780E	Trivento Golden Reserve Malbec 75cl	13,00
+1102782E	Trivento Amado Sur Malbec 75cl	15,00
+1102801E	Trivento Reserve Chardonnay 75cl	13,00
+1102802E	Trivento Reserve Malbec 75cl	13,00
+1102803E	Trivento Reserve Syrah 75cl	13,00
+1102805E	Trivento Reserve Torrontes 75cl	13,00
+1102841E	Trivento Tribu Chardonnay 75cl	13,00
+1102842E	Trivento Tribu Malbec 75cl	13,00
+1102846E	Trivento Tribu Sauvignon Blanc 75cl	13,00
+1102847E	Trivento Tribu Pinot Noir 75cl	13,00
+1102848E	Trivento Tribu Torrontes 75cl	13,50
+1102850E	Gran Albarda Malbec 75cl	13,00
+1102851E	Gran Albarda Chardonnay 75cl	12,00
+1102900E	Stradivari Cabernet 75cl	11,00
+1102901E	Stradivari Chardonnay 75cl	11,00
+1103011E	Fantasy Cabernet Sauvignon Semi-Sweet 100cl	11,00
+1103012E	Fantasy Muscat Red Semi-Sweet 100cl	11,00
+1103013E	Fantasy Muscat White Semi-Sweet 100cl	11,00
+1103014E	Fantasy Chardonnay Semi-Sweet 100cl	11,00
+1103020E	Kagor Osobõi  75cl	12,00
+1103150E	Riddersberg Chenin Blanc/Chard 300cl BIB	12,50
+1103151E	Riddersberg Shiraz/Cab.Sauv 300cl BIB	13,00
+1103152E	Riddersberg Cabernet Sauvignon 75cl	14,00
+1103153E	Riddersberg Shiraz/Cab.Sauv 75cl	13,00
+1103154E	Riddersberg Chenin Blanc/Chardonnay 75cl	13,00
+1103155E	Kleevenberg Cabernet Sauvignon 75cl	14,00
+1103160E	Santiago de Chile Semillon Chardonnay 75cl	13,50
+1103161E	Santiago de Chile Cabernet Sauvignon 75cl	13,00
+1103162E	Santiago de Chile Chardonnay 300cl BIB	13,00
+1103163E	Santiago de Chile Cabernet Sauvignon 300cl BIB	13,00
+1103170E	Santiago de Chile Gewürztraminer-Semillon 75cl	12,00
+1103171E	Santiago de Chile Cabernet-Carmenere 75cl	12,00
+1103175E	Santiago de Chile Gewürztraminer-Semillon 300cl BIB	12,00
+1103176E	Santiago de Chile Cabernet-Carmenere 300cl BIB	12,00
+1103210E	Terra Cruz Coleccion Reserva Riesling 75cl	13,00
+1103211E	Terra Cruz Coleccion Reserva Chardonnay 75cl	13,00
+1103212E	Terra Cruz Coleccion Reserva Cabernet Sauv. 75cl	13,00
+1103213E	Terra Cruz Coleccion Reserva Shiraz 75cl	13,00
+1103220E	Terra Cruz Cabernet Sauvignon 75cl	13,00
+1103221E	Terra Cruz Sauvignon Blanc 75cl	13,00
+1103225E	Terra Cruz Cabernet Sauvignon BIB 300cl	13,00
+1103226E	Terra Cruz Sauvignon Blanc BIB 300cl	13,00
+1103400E	Manastirska Izba White 75cl	11,00
+1103401E	Manastirska Izba Red 75cl	11,00
+1103500E	Kinzmali 75cl	11,00
+1103501E	Kvanzkari 75cl	11,00
+1103502E	Kinzmali 300cl BIB	11,00
+1103504E	Kinzmali 500cl BIB	11,00
+1103602E	Kagor Drevnii 75cl	11,00
+1103800E	Gran Duque White 100cl tetra	11,00
+1103801E	Gran Duque Red 100cl tetra	11,00
+1104020E	Castillo del Baron White Medium Sweet 75cl	11,00
+1104021E	Castillo del Baron Red Medium Sweet 75cl	11,00
+1104025E	Castillo del Baron Chardonnay 75cl	12,00
+1104026E	Castillo del Baron Cabernet Sauvignon 75cl	12,00
+1104027E	Castillo del Baron Tempranillo 75cl	11,00
+1104028E	Castillo del Baron Sauvignon Blanc 75cl	11,00
+1104030E	Castillo del Baron Chardonnay 300cl BIB	12,00
+1104031E	Castillo del Baron Cabernet Sauvignon 300cl BIB	12,00
+1106031E	Henri Bourgeois Sancerre 75cl	13,50
+1106032E	Henri Bourgeois Petit Clos Sauv.Blanc 75cl	14,00
+1106033E	Henri Bourgeois Petit Bourgeois Cabernet Franc 75cl	12,50
+1106050E	Mateus Rose 75cl	11,00
+1106051E	Mateus Aragones Rose 75cl	10,50
+1106057E	Torre de Azevedo Vinho Verde 75cl	11,00
+1106059E	Gazela Rose 75cl	10,00
+1106060E	Gazela Vinho Verde 75cl	9,00
+1106063E	Framingham Riesling 75cl	12,00
+1106065E	Ribbonwood Sauvignon Blanc 75cl	13,00
+1106066E	Ribbonwood Pinot Noir 75cl	13,50
+1107050E	Banfi San Angelo Pinot Grigio Toscana 75cl	12,50
+1107052E	Banfi Brunello di Montalcino 75cl	14,00
+1107053E	Banfi Brunello di Montalcino Poggio Alle Mura 75cl	14,50
+1107100E	Hacienda Zorita Tempranillo 75cl	14,00
+1107102E	Durius Tempranillo 75cl	14,00
+1107124E	Hacienda Zorita Abascal Vineyard Crianza 75cl	14,00
+1107126E	Hacienda Zorita Vega de la Reina Verdejo 75cl	13,00
+1107147E	Berberana Carta de Oro Gran Reserva 75cl	13,50
+1107148E	Berberana Reserva Clasico 1877 Mentrida 300cl BIB	12,50
+1107152E	Berberana Reserva Clasico 1877 75cl	13,50
+1107157E	Berberana Vina Alarde Crianza 75cl	13,50
+1107158E	Berberana Vina Alarde Reserva 75cl	13,50
+1107159E	Berberana Vina Alarde Gran Reserva 75cl	13,50
+1107160E	Berberana Dragon Tempranillo 75cl	13,00
+1107161E	Berberana Dragon Viura Sauvignon Blanc 75cl	11,50
+1107220E	Lagunilla Crianza 75cl	13,50
+1107221E	Lagunilla Gran Reserva 75cl	13,50
+1107500E	Cielo Santa Rive Valpolicella 75cl	12,00
+1107501E	Cielo Santa Rive Soave 75cl	12,00
+1107503E	Cielo Pinot Grigio 75cl	12,00
+1107504E	Cielo Primi Soli Primitivo 75cl	13,50
+1107700E	Doppio Passo Primitivo 300cl BIB	13,00
+1107701E	Doppio Passo Chardonnay 75cl	12,50
+1107702E	Doppio Passo Negroamaro 75cl	12,00
+1107703E	Doppio Passo Primitivo 75cl	13,00
+1107800E	Castellani Tomaiolo Orvieto Classico 75cl	12,00
+1107801E	Castellani Elitaio Montepulciano d'Abruzzo 75cl	12,00
+1107802E	Castellani Chianti 75cl	12,50
+1107803E	Castellani Pinot Grigio 75cl	12,00
+1107804E	Castellani Chianti Colli Senesi 75cl	12,50
+1107805E	Castellani Chianti Riserva 75cl	12,50
+1107806E	Castellani Chianti Classico Riserva 75cl	13,00
+1107807E	Castellani Vernaccia di S.Gimignano 75cl	12,50
+1107808E	Almarosa Grillo 75cl	12,50
+1107809E	Masseria del Fauno Grillo 75cl	12,50
+1107810E	Messer del Fauno Nero d'Avola 75cl	13,00
+1107811E	Guadalmare Maremma Toscana 75cl	13,00
+1107812E	Castellani Poggio al Casone Chianti Superiore 75cl	12,50
+1107813E	Castellani Poggio al Casone Chianti Riserva 75cl	12,50
+1107820E	Almarosa Sangiovese 75cl	13,00
+1107825E	Castellani Verdicchio dei Castelli di Jesi DOC 75cl	12,00
+1107830E	Messer del Fauno Primitivo 75cl	13,00
+1108000E	Devil's Rock Riesling 75cl	12,00
+1108002E	Devil's Rock Riesling 300cl BIB	12,00
+1108010E	Weiss Riesling 300cl BIB	8,50
+1108450E	Roda Sela Rioja DO 75cl	14,50
+1108451E	Roda Reserva Rioja DO 75cl	13,50
+1108452E	Roda I Reserva Rioja DO 75cl	14,50
+1108453E	Roda Cirsion Rioja DO 75cl	14,50
+1108480E	La Horra Corimbo Ribera del Duero DO 75cl	14,50
+1108481E	La Horra Corimbo I Reserva Ribera del Duero DO 75cl	14,50
+1109000E	Seagull Mountain Sauvignon Blanc 75cl	12,00
+1109050E	Nüwang Ume Pflaume 50cl	10,00
+1109051E	Nüwang Lychee 50cl	10,00
+1109053E	Nüwang Granatapfel 50cl	10,00
+1109060E	Sangria 150cl	9,00
+1109100E	Australian Bush Chardonnay-Colombard 75cl	12,50
+1109101E	Australian Bush Sauvignon Blanc  75cl	13,00
+1109102E	Australian Bush Cabernet-Shiraz 75cl	13,00
+1109103E	Australian Bush Merlot 75cl	13,50
+1109104E	Australian Bush Chard-Colombard 300cl BIB	13,00
+1109105E	Australian Bush Shiraz-Cabernet 300cl BIB	13,00
+1109200E	Santa Cristina Rosso IGT Toscana 75cl	13,00
+1109201E	Santa Cristina Bianco Umbria IGT 75cl	12,00
+1109203E	Santa Cristina Campogrande Orvieto Classico 75cl	11,50
+1109204E	Santa Cristina Cipresseto Rosato Toscana IGT 75cl	11,50
+1109209E	Villa Antinori Chianti Classico Riserva DOCG 75cl	13,50
+1109210E	Villa Antinori Rosso Toscana IGT 75cl	13,50
+1109211E	Villa Antinori Bianco Toscana IGT 75cl	12,00
+1109212E	Antinori Peppoli Chianti Classico DOCG 75cl	13,50
+1109213E	Antinori Chianti Classico Riserva Tenuta Tignanello 75cl	13,50
+1109214E	Tignanello Toscana IGT 75cl	14,00
+1109215E	Solaia Toscana IGT 75cl	14,00
+1109216E	Pian delle Vigne Brunello di Montalcino DOCG 75cl	14,00
+1109217E	Castello della Sala San Giovanni Orvieto 75cl	12,50
+1109219E	Tenuta Guado al Tasso Il Bruciato Bolgheri 75cl	14,50
+1109220E	Tormaresca Neprica Puglia IGT Rosso 75cl	13,50
+1109221E	La Braccesca Vino Nobile de Montepulciano 75cl	13,50
+1109222E	Tormaresca Chardonnay Puglia IGT 75cl	12,00
+1109223E	Castello della Sala Cervaro della Sala Umbria IGT 75cl	13,00
+1109224E	Castello della Sala Muffato della Sala Umbria IGT 50cl	12,50
+1109225E	Antinori Mezzo Braccio Riesling Toscana IGT 75cl	13,00
+1109226E	Antinori Vinsanto Del Chianti Classico 50cl	15,50
+1109227E	Badia A Passignano Chianti Gran Selezione 75cl	14,50
+1109228E	Le Mortelle Botrosecco Maremma Toscana DOC 75cl	13,50
+1109229E	Tenuta Guado al Tasso Bolgheri Superiore 75cl	14,00
+1109240E	Prunotto Barbaresco DOCG 75cl	14,00
+1109242E	Prunotto Barbera d`Alba DOC 75cl	13,50
+1109402E	Rolland & Galarreta Ribera del Duero DO 75cl	14,50
+1109440E	Palais de France Sauvignon Blanc 75cl	12,50
+1109441E	Palais de France Cabernet Sauvignon 75cl	12,50
+1109442E	Palais de France Chardonnay 75cl	11,00
+1109500E	Escada Touriga Nacional 75cl	13,00
+1109501E	Escada Touriga Nacional 300cl BIB	13,00
+1110000E	Ecologica Shiraz-Malbec 75cl	12,50
+1110001E	Ecologica Torrontes-Chardonnay 75cl	12,50
+1110050E	Cousino-Macul Merlot 75cl	13,50
+1110051E	Cousino-Macul Chardonnay 75cl	13,50
+1110100E	Running Duck White Semi Sweet 75cl	12,00
+1110101E	Running Duck Merlot 75cl	13,00
+1110102E	Running Duck Cabernet Sauvignon 75cl	13,50
+1110120E	Ironstone Zinfandel 75cl	14,50
+1110121E	Ironstone Obsession Symphony 75cl	12,50
+1110122E	Ironstone Reserve Old Vine Zinfandel 75cl	14,50
+1110150E	Chateau Franc Cardinal 75cl	13,50
+1110170E	Remy Ferbras Cabernet Sauvignon 75cl	13,50
+1110200E	Pratello Catulliano Lugana 75cl	12,50
+1110201E	Pratello Torrazzo Valtenesi Rosso 75cl	13,00
+1110220E	Lamothe Parrot Selection White 75cl	11,00
+1110221E	Lamothe Parrot Selection Red 75cl	11,00
+1110250E	Michel Picard Bourgogne Pinot Noir 75cl	12,50
+1110251E	Michel Picard Chablis 75cl	12,00
+1110252E	Michel Picard Pinot Noir Chassagnen Montrachet 75cl	13,00
+1110253E	Michel Picard Bourgogne Chardonnay 75cl	13,00
+1110300E	Footmark Pinotage 75cl	14,00
+1110301E	Footmark Chardonnay-Viognier 75cl	13,50
+1110400E	Capa Verdejo 75cl	13,00
+1110401E	Capa Tempranillo 75cl	13,50
+1170823E	Colimoro Montepulciano d'Abruzzo 75cl	12,50
+1170825E	Torrebruna Sangiovese Toscana IGT 75cl	13,50
+1200014E	Dreamer Sparkling White Sweet 75cl	10,00
+1200015E	Dreamer Sparkling Rose Medium-Sweet 75cl	10,00
+1200050E	Monte Cristo Sparkling 75cl	10,00
+1200051E	Monte Cristo Sparkling Rose 75cl	10,00
+1200052E	Monte Cristo Sparkling Moscatini 75cl	10,00
+1200070E	Gran Castillo Sparkling Viura Chardonnay 75cl	11,00
+1200071E	Gran Castillo Sparkling Viura Moscato 75cl	10,50
+1200072E	Gran Castillo Sparkling Rose 75cl	7,50
+1200090E	Teliani Valley Sparkling Demi-Sec 75cl	11,00
+1200100E	Sovetskoje Sladkoje 75cl	6,00
+1200101E	Sovetskoje Polusladkoje 75cl	10,00
+1200102E	Sovetskoje Igristoje White Label 75cl	10,00
+1200103E	Sovetskoje Rosovoje 75cl	10,00
+1200104E	Sovetskoje Krasnoje 75cl	10,00
+1200200E	Sovetskoje Zolotoje 75cl	10,50
+1200201E	Sovetskoje Kristalnoje 75cl	6,00
+1200270E	Prince Laurent Champagne Brut Rose 75cl	12,50
+1200300E	J.P.Chenet Sparkling Brut 20cl	11,00
+1200302E	J.P.Chenet Sparkling Rose 20cl	12,00
+1200303E	J.P.Chenet Fashion Peach 20cl	10,00
+1200304E	J.P.Chenet Fashion Cassis 20cl	10,00
+1200310E	J.P.Chenet Fashion Peach 75cl	10,00
+1200311E	J.P.Chenet Fashion Cassis 75cl	10,00
+1200312E	J.P.Chenet Fashion Strawberry/Raspberry 75cl	10,00
+1200350E	J.P.Chenet Sparkling Brut 75cl	11,00
+1200354E	J.P.Chenet Sparkling Sweet 75cl	12,50
+1200355E	J.P.Chenet ICE Sparkling 75cl	11,00
+1200356E	J.P.Chenet ICE Sparkling Rose 75cl	11,00
+1200357E	J.P.Chenet ICE Sparkling 20cl	11,00
+1200358E	J.P.Chenet ICE Sparkling Rose 20cl	13,00
+1200380E	J.P.Chenet ICE Sparkling 6x75cl KAST	11,00
+1200381E	J.P.Chenet ICE Sparkling Rose 6x75cl KAST	11,00
+1200400E	Blue Nun 22K Gold Edition 75cl	11,00
+1200420E	Baron d'Arignac Sparkling Brut 75cl	11,00
+1200421E	Baron d'Arignac Sparkling Demi-Sec 75cl	11,00
+1200506E	Montenisa Brut Franciacorta DOC 75cl	12,50
+1200507E	Marchese Antinori Cuvee Royale Franciacorta 75cl	12,50
+1200580E	Torres Santa Digna Estelado Rose 75cl	12,00
+1200581E	Torres Santa Digna Estelado Rose 75cl giftbox	12,00
+1200650E	Casillero del Diablo Brut Chardonnay 75cl	12,00
+1200700E	Filipetti Moscato Bianco 75cl	6,50
+1200702E	Filipetti Asti Dolce 75cl	7,50
+1200900E	Pierlant Blanc de Blancs Demi-Sec 75cl	11,00
+1200901E	Pierlant Blanc de Blancs Brut 75cl	11,00
+1201000E	Pere Ventura Brut Reserva 75cl	11,50
+1201002E	Pere Ventura Semi Sec Rose 75cl	11,50
+1201003E	Pere Ventura Tresor Brut Nature 75cl	11,50
+1201004E	Pere Ventura Cuvee Especial 75cl	11,50
+1201005E	Pere Ventura Cuvee Especial 20cl	11,50
+1201006E	Pere Ventura Tresor Brut Nature 150cl giftbox	11,50
+1201200E	Laurent Perrier Brut LP 37.5cl	12,00
+1201201E	Laurent Perrier Brut LP 75cl	12,00
+1201203E	Laurent Perrier Cuvee Rose Brut 75cl	12,00
+1201350E	Marques de Monistrol Seleccion Brut 75cl	11,50
+1201351E	Marques de Monistrol Premium Brut Rose 75cl	12,00
+1201352E	Marques de Monistrol Premium Brut Nature 75cl	12,00
+1201353E	Marques de Monistrol Seleccion Semi-Seco 75cl	12,00
+1201354E	Marques de Monistrol Seleccion Brut Rose 75cl	11,00
+1201360E	Marques De La Concordia MM Cava Brut 75cl	11,50
+1201402E	Gosset Grande Reserve Brut 75cl box	12,00
+1201404E	Gosset Grand Rose Brut 75cl box	12,00
+1201405E	Gosset Brut Excellence 75cl	12,00
+1201420E	Gosset Brut Excellence 37.5cl _ DEMJANOV	12,00
+1201422E	Gosset Grande Reserve Brut 150cl gift-box	12,00
+1201423E	Gosset Grand Rose Brut 150cl gift-box	12,00
+1201424E	Gosset Celebris Extra Brut 75cl gift-box	12,00
+1201425E	Gosset Celebris Blanc de Blancs Extra Brut 75cl gift-box	12,00
+1201426E	Gosset Celebris Rose Extra Brut 75cl gift-box	12,00
+1201500E	Cielo Chardonnay Frizzante 75cl	10,50
+1201501E	Cielo Pinot Rosa Frizzante 75cl	10,50
+1201540E	Cielo Prosecco Frizzante 75cl	10,50
+1201600E	Charlize Gold 75cl	9,50
+1201601E	Charlize Silver 75cl	11,50
+1201602E	Charlize Rose 75cl	9,50
+1201605E	Charlize Gold 150cl	9,50
+1201701E	La Gioiosa Prosecco Treviso DOC Spumante Brut 75cl	11,00
+1201702E	La Gioiosa Rose Vino Spumante Brut 75cl	11,00
+1201703E	La Gioiosa Valdobbiadene Prosecco Superiore 75cl	11,00
+1201704E	La Gioiosa Fragolino Dolce 75cl	9,00
+1201750E	Contessa Giulia Prosecco Extra Dry 75cl	11,00
+1201800E	Saint Maurice Champagne Brut 75cl	12,00
+1201820E	D'Artigny Grand Classic Alcohol-Free 75cl	0,00
+1202000E	Nicolas Feuillatte Brut 75cl	12,00
+1202001E	Nicolas Feuillatte Brut Reserve 75cl	12,00
+1202002E	Nicolas Feuillatte Demi-Sec 75cl	12,00
+1202003E	Nicolas Feuillatte Brut Vintage 75cl	12,00
+1202004E	Nicolas Feuillatte Grand Cru Chardonnay 75cl	12,00
+1202005E	Nicolas Feuillatte Grand Cru Pinot Noir 75cl	12,00
+1202006E	Nicolas Feuillatte Palmes d'Or Brut Vintage 75cl	12,00
+1300001E	Filipetti Vermouth Bianco 100cl	14,80
+1400002E	Torres Moscatel Oro 50cl	15,00
+1400021E	Taylor's Select Reserve Port 75cl	20,00
+1400022E	Taylor's Late Bottled Vintage 75cl	20,00
+1400023E	Taylor's 10 Year Old Tawny 75cl	20,00
+1400027E	Taylor's Quinta de Vargellas Vintage 1995 37.5cl	20,50
+1400029E	Taylor's Single Harvest Colheita Port 1965 75cl puitkarbis	21,00
+1400101E	Offley Tawny Porto 75cl	19,50
+1400102E	Offley 10 Year Old Tawny 75cl	20,00
+1400104E	Offley Late Bottled Vintage 75cl	20,00
+1500001E	Kardinali Hõõgvein 75cl	10,50
+1500002E	Kirsi Hõõgvein 75cl	10,50
+1500003E	Bocca Glögg 50cl	20,00
+1500004E	Kardinali Hõõgvein BIB 300cl	10,00
+1500050E	Sternthaler Christkindes Glühwein 100cl	9,50
+1600010E	Bollino Bianco 75cl	10,00
+1600011E	Bollino Rose 75cl	10,00
+1600012E	Bollino Rosso 75cl	10,00
+1600020E	Bollino Bianco 300cl BIB	10,00
+1600021E	Bollino Rosso 300cl BIB	10,00
+1600030E	Monte Cristo White 75cl	10,00
+1600031E	Monte Cristo Rose 75cl	10,00
+1600032E	Monte Cristo Red 75cl	10,00
+1600100E	Lambrini Light 75cl	5,00
+1600101E	Lambrini Apple-Blackcurrant 5.5% 75cl	5,50
+1600102E	Lambrini Peach 75cl	5,00
+1600103E	Lambrini Cherry 75cl	5,00
+1600200E	Tan-Fung Red Plum Wine 72cl	12,00
+1600201E	Tan-Fung Plum With Plums 72cl	12,00
+2000010E	Russkii Razmer Vodka Lux 20cl	40,00
+2000011E	Russkii Razmer Vodka Lux 50cl	40,00
+2000012E	Russkii Razmer Vodka Lux 70cl	40,00
+2000017E	Russkii Razmer Vodka Na Moloke 50cl	40,00
+2000018E	Russkii Razmer Vodka Medovaja s pertsem 50cl	37,50
+2000202E	Nipernaadi Jõhvika Viin 50cl	37,50
+2000204E	Nipernaadi Kirsi Viin 50cl	37,50
+2000207E	Nipernaadi Laimi-Metsmaasika Viin 50cl	37,50
+2000208E	Nipernaadi Mustika-Rabarberi Viin 50cl	37,50
+2000220E	Nipernaadi Jõhvika Viin 20cl	37,50
+2000532E	Sobieski Pepper & Honey Vodka 50cl 40%	40,00
+2000536E	Sobieski Pepper & Honey Vodka 50cl	37,50
+2000540E	Sobieski Premium Vodka 50cl MAXIMA	40,00
+2000601E	Russkii Duh Premium Vodka 50cl	40,00
+2000602E	Russkii Duh Kljukvennaja Vodka 50cl	37,50
+2000603E	Russkii Duh Na Moloke Vodka 50cl	40,00
+2000605E	Russkii Duh Platinum Vodka 50cl 40%	40,00
+2000606E	Russkii Duh Platinum Vodka 70cl 40%	40,00
+2000719E	Jelzin Vodka 20cl	37,50
+2000720E	Jelzin Vodka 50cl	37,50
+2000721E	Jelzin Vodka 100cl	37,50
+2000750E	Ivan Kalita Malinovaja 50cl	36,00
+2000751E	Ivan Kalita Premium Vodka 50cl	40,00
+2000752E	Ivan Kalita Oblepihovaja 50cl	40,00
+2000800E	Vikingfjord Vodka 70cl	40,00
+2000820E	Lysholm Linie Aquavit 70cl	41,50
+2000840E	Aalborg Jubilaeums Akvavit 70cl	40,00
+2000900E	Russian Ice Vodka 50cl	40,00
+2000901E	Russian Ice Vodka 70cl	40,00
+2100005E	Napoleon Dubaron XO Brandy 50cl PET	36,00
+2100030E	J.P. Chenet X.O. Brandy 70cl	36,00
+2100031E	J.P. Chenet X.O. Brandy 20cl	36,00
+2100032E	J.P. Chenet X.O. Brandy 50cl	36,00
+2100033E	J.P. Chenet XO Brandy 150cl	36,00
+2100040E	J.P. Chenet Brandy Reserve Imperiale  50cl	38,00
+2100041E	J.P. Chenet Brandy Reserve Imperiale  70cl	38,00
+2100101E	Torres 5 Brandy 50cl	38,00
+2100102E	Torres 5 Brandy 70cl box	38,00
+2100122E	Torres 10 Brandy 50cl	38,00
+2100123E	Torres 10 Brandy 70cl	38,00
+2100124E	Torres 10 Brandy 70cl box	38,00
+2100125E	Torres 10 Brandy 100cl	38,00
+2100126E	Torres 10 Brandy 300cl	38,00
+2100127E	Torres 10 Brandy 50cl PET	38,00
+2100128E	Torres 10 Brandy 5cl	38,00
+2100129E	Torres 10 Brandy 5cl box	38,00
+2100140E	Torres 15 Brandy 70cl	40,00
+2100149E	Torres 20 Brandy 5cl karbis	40,00
+2100150E	Torres 20 Brandy 70cl	40,00
+2100151E	Torres Jaime I Brandy 70cl	38,00
+2100152E	Torres Jaime I Brandy 5cl karbis	38,00
+2100200E	Torres Pisco El Gobernador 70cl	40,00
+2100250E	Aroma Floris Moldavskii Aist 50cl	30,00
+2100251E	Aroma Floris Moldavskii Aist Black 50cl figure	30,00
+2100252E	Aroma Floris Cigogne Noire 50cl	40,00
+2100300E	Aroma Floris Belii Aist 50cl figure	40,00
+2100303E	Aroma Floris Ciornii Aist 50cl saber	40,00
+2100304E	Aroma Floris Belii Aist Black Label 50cl	36,00
+2100350E	Sarajishvili 5 Years Brandy 50cl	40,00
+2100351E	Sarajishvili VSOP Brandy 50cl	40,00
+2100352E	Sarajishvili 3 Years Brandy 50cl	40,00
+2100353E	Sarajishvili XO Brandy 70cl	40,00
+2100382E	Iverioni 5* Brandy 50cl	40,00
+2100401E	Aramis VS 50cl	30,00
+2100479E	Aramis VSOP 20cl	30,00
+2100480E	Aramis VSOP 50cl	30,00
+2100481E	Aramis VSOP 50cl PET	30,00
+2100500E	Aramis 'V' 20cl	36,00
+2100501E	Aramis 'V' 35cl	36,00
+2100502E	Aramis 'V' 50cl	36,00
+2100503E	Aramis 'V' 50cl PET	36,00
+2100505E	Aramis 'V' 70cl	36,00
+2100506E	Aramis 'V' 100cl	36,00
+2100600E	Aramis 'X' Brandy 50cl	38,00
+2100603E	Aramis XO 20cl 38%	38,00
+2100605E	Aramis XO 50cl 38%	38,00
+2100606E	Aramis XO 50cl 36% PET	36,00
+2100607E	Aramis XO 20cl 36%	36,00
+2100700E	Teliani Valley Chacha White 50cl	42,00
+2100701E	Teliani Valley Chacha Aged in Oak 50cl	42,00
+2100731E	Antinori Grappa Pian delle Vigne Riserva 50cl	42,00
+2100732E	Antinori Grappa Tignanello 50cl	42,00
+2100802E	Monte Cristo XO 50cl PET	30,00
+2100900E	Magistr Brandy VSOP 50cl	36,00
+2100901E	Magistr Divin De Lux  X.O. 50cl giftbox	40,00
+2100908E	Black Monk VS Brandy 50cl	36,00
+2100910E	Black Monk 3* Brandy 50cl	36,00
+2100911E	Black Monk 5* Brandy 50cl	40,00
+2101000E	Bosso Spirit Drink 5 Star 20cl	30,00
+2101001E	Bosso Spirit Drink 5 Star 50cl	30,00
+2101002E	Bosso Spirit Drink 7 Star 50cl	30,00
+2101100E	Bardinet Napoleon VSOP 50cl PET	40,00
+2101101E	Bardinet VSOP Brandy 50cl PET	36,00
+2101102E	Bardinet VSOP Brandy 70cl	36,00
+2101103E	Bardinet VSOP Brandy 100cl	36,00
+2101104E	Bardinet VSOP Brandy 20cl	36,00
+2101110E	Bardinet XO Brandy 70cl giftbox	40,00
+2101200E	Beehive VSOP Brandy 50cl	40,00
+2101201E	Beehive VSOP Brandy 50cl PET	40,00
+2101205E	Beehive VSOP Brandy 70cl giftbox	40,00
+2101300E	Gran Castillo Brandy de Jerez Solera 70cl	36,00
+2101301E	Gran Castillo Brandy de Jerez Reserva 70cl	38,00
+2200050E	A.E. Dor Selection 70cl	40,00
+2200051E	A.E. Dor VSOP Fine Champagne 70cl (wax sealing)	40,00
+2200052E	A.E. Dor XO 70cl	40,00
+2200055E	A.E. Dor Cognac 1988 50cl	40,00
+2200061E	Estonian Cognac Club No.3 50cl	40,00
+2200062E	A.E.Dor Albane Grande Champagne Limited Edition No.1 70cl	40,00
+2200063E	Estonian Cognac Club Pineau No.1 50cl	17,00
+2200064E	Albert Jarraud VSOP Special Reserve Cognac 70cl	40,00
+2200065E	Albert Jarraud VS De Luxe Cognac 70cl	40,00
+2200066E	Albert Jarraud XO Imperial Cognac 70cl karbis	40,00
+2200100E	Lecompte Calvados 5 Years 70cl	40,00
+2200101E	Lecompte Calvados 12 Years 70cl	42,00
+2200201E	Frapin VSOP Grande Champagne 70cl	40,00
+2200203E	Chateau Fontpinot X.O. Grande Champagne 70cl	41,00
+2200204E	Chateau Fontpinot X.O. Grande Champagne 35cl	41,00
+2200208E	Frapin VS Grande Champagne 50cl giftbox	40,00
+2200209E	Frapin VSOP Grande Champagne 50cl giftbox	40,00
+2200210E	Frapin VSOP Grande Champagne 70cl+2 klaasi	40,00
+2200211E	Frapin Multimillesime No.6 Grande Champagne 70cl puitkarbis	41,70
+2200500E	Braastad VS Cognac 70cl	40,00
+2200510E	Braastad VSOP Cognac 70cl giftbox	40,00
+2200520E	Braastad XO Cognac 70cl giftbox	40,00
+2300004E	Canadian Gold 70cl	40,00
+2300005E	Canadian Gold Whisky 100cl	40,00
+2300040E	Old Senator 70cl	40,00
+2300102E	Kentucky Jack Whisky 70cl	40,00
+2300200E	Hankey Bannister Blended Scotch 50cl	40,00
+2300201E	Hankey Bannister Blended Scotsh 70cl	40,00
+2300203E	Hankey Bannister Blended Scotch 100cl	40,00
+2300220E	MacArthur's Blended Scotch 50cl PET	40,00
+2300221E	MacArthur's Blended Scotch 70cl	40,00
+2300222E	MacArthur's Blended Scotch 100cl	40,00
+2300250E	Speyburn 10 YO Single Malt 70cl	40,00
+2300251E	anCnoc Highland Single Malt 12 YO 70cl	40,00
+2300252E	Old Pulteney 12 YO Single Malt 70cl	40,00
+2300253E	Balblair Single Malt 70cl	46,00
+2300500E	Sir Edward's Scotch 50cl PET	40,00
+2300501E	Sir Edward's Scotch 50cl	40,00
+2300505E	Sir Edward's Scotch 70cl giftbox	40,00
+2300506E	Sir Edward's Schotch 100cl	40,00
+2300510E	Sir Edward's Scotch 200cl PET	40,00
+2300515E	Sir Edward's Scotch 450cl	40,00
+2300530E	John Lee Bourbon 70cl	40,00
+2400002E	Hogarth Gin 70cl	37,50
+2400020E	Bleu D´Argent London Dry Gin 70cl	40,00
+2400180E	Botanic Premium London Dry Gin 70cl	40,00
+2400181E	Botanic Agua de Buda Spirits Drink-Spray 10cl	49,00
+2500105E	Monte Cristo White Rum 20cl	37,50
+2500180E	Casablanca de Cuba Black Spiced 70cl	36,00
+2500181E	Casablanca de Cuba White Rum 70cl	37,50
+2500182E	Casablanca de Cuba Dark Rum 70cl	37,50
+2500190E	CDC Black Spiced 70cl Lauamänguga	36,00
+2500191E	CDC White Rum 70cl Lauamänguga	37,50
+2500192E	CDC Dark Rum 70cl Lauamänguga	37,50
+2500194E	Casablanca Spiced 50cl	30,00
+2500195E	Casablanca Fire Spice 50cl	30,00
+2500196E	Casablanca White Rum 50cl	37,50
+2500197E	Casablanca White Rum 70cl	37,50
+2500198E	Casablanca Dark Rum 50cl	37,50
+2500199E	Casablanca Dark Rum 70cl	37,50
+2500200E	Tobacco Rum Silver 70cl	37,50
+2500201E	Tobacco Rum Silver 100cl	37,50
+2500210E	Tobacco Rum Black 70cl	37,50
+2500211E	Tobacco Rum Black 100cl	37,50
+2500220E	Tobacco Rum Spiced 70cl	37,50
+2500221E	Tobacco Rum Spiced 100cl	37,50
+2500230E	Tobacco Raspberry 70cl	28,00
+2500300E	Negrita Dark Rhum 50cl	37,50
+2500310E	Negrita Spiced Golden 70cl	35,00
+2500311E	Negrita Spiced Golden 100cl	35,00
+2500320E	Negrita Lemon 70cl	32,00
+2500325E	Negrita Gold Rhum 50cl PET	37,50
+2500326E	Negrita Gold Rhum 70cl	37,50
+2500327E	Negrita Gold Rhum 100cl	37,50
+2500335E	Negrita White Rhum 70cl	37,50
+2500336E	Negrita White Rhum 100cl	37,50
+2500350E	Valongo Superior Dark Rhum 70cl	37,50
+2500351E	Valongo Superior White Rhum 70cl	37,50
+2600020E	Agavita Tequila Blanco 70cl	38,00
+2600021E	Agavita Tequila Gold 70cl	38,00
+2600050E	Tequila Mexicana Ole Silver 70cl	38,00
+2600051E	Tequila Mexicana Ole Gold 70cl	38,00
+2600100E	Pachuca Tequila Silver 70cl	35,00
+2600101E	Pachuca Tequila Gold 70cl	35,00
+2700120E	Põhjaka Astelpajunaps 50cl	26,00
+2700210E	Malbay´s Latte macchiato liköör 50cl	15,00
+2700211E	Malbay´s Caramel liköör 50cl	15,00
+2700212E	Malbay´s Chocolate liköör 50cl	15,00
+2700250E	Cuerpo Pina Colada 70cl	15,00
+2700251E	J.P.Chenet Brandy & Coffee Liquor 50cl	28,00
+2700280E	Tobacco Ron Caramel 70cl	25,00
+2700400E	The UFO Shot Original 50cl	20,00
+2700401E	The UFO Shot Blasteroid 50cl	20,00
+2700402E	The UFO Shot Blackhole 50cl	20,00
+2700410E	The UFO Shot Original 50cl PET	20,00
+2700450E	Giardino del Lago Limoncino 70cl	30,00
+2700460E	Alexandra Whisky Cream 70cl	17,00
+2700470E	Negrita Rum Cream Liqueur 70cl	17,00
+2800001E	Wurzelpeter 50cl	32,00
+2800010E	Wurzelpeter 2cl 12-pack	30,00
+2800100E	Gammel Dansk Bitter Dram 35cl	38,00
+2800101E	Gammel Dansk Bitter Dram 100cl	38,00
+3000001E	Lecompte Dumanoir Cider de Normandie Brut 75cl	4,50
+3000020E	Kopparberg Pear 4.5% 50cl CAN	4,50
+3000021E	Kopparberg Apple 4.5% 50cl CAN	4,50
+3000022E	Kopparberg Strawberry 4.5% 50cl CAN	4,50
+3000023E	Kopparberg Wildberries 4.5% 50cl CAN	4,50
+3000028E	Kopparberg Pear non alcoholic 50cl CAN	0,00
+3000030E	Kopparberg Naked Apple 50cl CAN	4,50
+3000031E	Kopparberg Naked Apple 33cl bottle	4,50
+3000050E	Kopparberg Frozen Strwaberry&Lime 25cl	4,00
+3000073E	Kopparberg Elderflower-Lime 33cl bottle	4,00
+3000075E	Kopparberg Strawberry-Lime 33cl bottle	4,50
+3000076E	Kopparberg Pear 50cl bottle	4,50
+3000077E	Kopparberg Strawberry-Lime 50cl bottle	4,00
+3000078E	Kopparberg Mixed Fruit 50cl bottle	4,00
+3000080E	Kopparberg Pear 24x33cl suitcase	4,50
+3000081E	Kopparberg Wildberries 24x33cl suitcase	4,50
+3000083E	Kopparberg Strawberry 12x33cl suitcase	4,50
+3000084E	Kopparberg Raspberry-Mint 24x33cl suitcase	4,50
+3000200E	Cidre Bouche Jean Loret Doux 75cl	2,00
+3000201E	Cidre Bouche Jean Loret Brut 75cl	4,50
+30020KOP	*  Kopparberg Pear 4.5% 50cl CAN	4,50
+30021KOP	*  Kopparberg Apple 4.5% 50cl CAN	4,50
+30022KOP	*  Kopparberg Strawberry 4.5% 50cl CAN	4,50
+30023KOP	*  Kopparberg Wildberries 4.5% 50cl CAN	4,50
+3100010E	Caribbean Twist Pina Colada 70cl	5,40
+3100012E	Caribbean Twist Mixed Mango 70cl	5,40
+3100020E	Cuerpo Mojito 70cl	15,00
+3100021E	Cuerpo Mojito 300cl BIB	15,00
+3100022E	Cuerpo Punch 300cl BIB	15,00
+3100050E	Monte Cristo Mojito 50cl PET	15,00
+3100200E	Vikingfjord Mojito 150cl BIB	12,50
+3100201E	Vikingfjord Mojito Rasberry 150cl BIB	12,50
+3100202E	Vikingfjord Cosmo 150cl BIB	12,50
+1202100E	Calista Prosecco Frizzante 75cl	11,00
+1202101E	Calista Prosecco Extra Dry 75cl	11,00
+1110520E	Castelforte Pinot Grigio 75cl	12,50
+1110521E	Castelforte Soave Colli Scaligeri 75cl	12,50
+1110522E	Castelforte Corvina 75cl	13,50
+1110523E	Castelforte Valpolicella Ripasso 75cl	14,00
+1110524E	Castelforte Amarone della Valpolicella 75cl	15,00
+1110530E	Castelforte Soave 300cl BIB	12,50
+1110531E	Castelforte Appassimento Rosso 300cl BIB	14,00
+2400005E	Hogarth London Dry Gin 70cl	37,50
+2300150E	5010509465182	Catto`s Blended Scotch Whisky 70cl	40,00

@@ -1,0 +1,78 @@
+Regalia Kaubandus OÜ 8.07.2016Dunkri Kaubanduse AS  Õismäe tee 107 
+Kood Kauba nimetus Hind SummaKogusÜhik
+Brändi Belii Aist BL 50cl 37% 14,107,052,00pdl1
+Brändi Jaime I 70cl 38% 54,1254,121,00pdl2
+Brändi JP Chenet XO 70cl 36% 36,9012,303,00pdl3
+Brändi Magistr De Lux 50cl 40% 22,1211,062,00pdl4
+Brändi Magistr VSOP 50cl 36% 16,228,112,00pdl5
+Brändi Sarajishvili 5Y 50cl 40% 11,1411,141,00pdl6
+Muu p.j.Aramis V 20cl 36% 13,852,775,00pdl7
+Muu p.j.Aramis V 50cl 36% 77,166,4312,00pdl8
+Muu p.j.Aramis VS 50cl 30% 79,205,2815,00pdl9
+Muu p.j.Aramis VSOP 50cl 30% 16,985,663,00pdl10
+Muu p.j.Aramis XO 20cl 38% 10,323,443,00pdl11
+Muu p.j.Moldavskii Aist Black 50cl 30% 11,645,822,00pdl12
+Dzinn Blue D´Argent 70cl 40% 10,2510,251,00pdl13
+Dzinn Hogarth 70cl 37,5% 27,069,023,00pdl14
+Dzinn Hogarth London Dry 70cl 37,5% 9,029,021,00pdl15
+Konjak Frapin VS 50cl 40% 24,2324,231,00pdl16
+Ar.p.v.Bollino p 75cl 10% 13,622,276,00pdl17
+Ar.p.v.Monte Cristo p 75cl 10% 27,242,2712,00pdl18
+GT-Lauav.Australian Bush C/Sh 300cl 13,5% 21,2010,602,00pdl19
+GT-Lauav.Old Gruzia Alazani p 75cl 12% 8,884,442,00pdl20
+GT-Lauav.Teliani Vall.Kindzmarauli 75cl 12% 6,636,631,00pdl21
+GT-Lauav.Vina Maipo Shiraz 75cl 13% 7,563,782,00pdl22
+GT-v.Teliani Alazani p 75cl 12% 13,354,453,00pdl23
+Kgt-v.Cast.del Baron C/S 75cl 12% 8,882,963,00pdl24
+Kgt-v.JP.Chenet Cab/Syr 75cl 13% 24,964,166,00pdl25
+Kgt-v.JP.Chenet p.p/m 75cl 12% 24,964,166,00pdl26
+Kgt-v.Late Harvest Cabernet 300cl 12% 42,2410,564,00pdl27
+Kgt-v.Late Harvest Shiraz 300cl 12% 18,889,442,00pdl28
+Kpn-v.Castelforte Amarone 75cl 15% 14,8014,801,00pdl29
+Kpn-v.Ch.Vieux Laroque 75cl 12,5% 4,544,541,00pdl30
+Kpn-v.EL Coto Cr 75cl 13% 6,806,801,00pdl31
+Kpn-v.Gran Castillo C/S 75cl 12,5% 43,203,6012,00pdl32
+Kpn-v.Gran Castillo Cel.Cab 75cl 13% 13,174,393,00pdl33
+Kpn-v.Gran Castillo Sel.Shiraz 75cl 13% 13,174,393,00pk34
+Kpn-v.Gran Castillo Shiraz 300cl 12% 42,4010,604,00pdl35
+Kpn-v.Gran Castillo Shiraz 75cl 12,5% 43,203,6012,00pdl36
+Kpn-v.Gran Castillo Temp 75cl 12,5% 21,603,606,00pdl37
+Kpn-v.P.Chenet C/Syr 300cl 13% 25,7412,872,00pdl38
+Ar.p.v.Monte Cristo r 75cl 12% 13,622,276,00pdl39
+Ar.v.j.Nüwang Lychee 50cl 10% 4,522,262,00pdl40
+Kpn-p.vahuv.Calista Pros.Friz 75cl 11% 13,264,423,00pdl41
+Kpn-vahuv.Calista Pros.E-Dry 75cl 11% 14,404,803,00pdl42
+Ar.p.v.Bollino v 75cl 10% 27,242,2712,00pdl43
+Ar.p.v.Monte Cristo v 75cl 10% 27,242,2712,00pdl44
+Ar.v.j.Dreamer white 100cl 10% 20,403,406,00pdl45
+Ar.v.j.Nüwang 50cl 10% 6,782,263,00pdl46
+GT-Lauav.Australian Bush Col/Char 300cl 13% 21,2010,602,00pdl47
+GT-Lauav.Old Gruzia Alazani v 75cl 12% 8,884,442,00pdl48
+GT-Lauav.Teliani Vall.Tvishi 75cl 11% 6,636,631,00pdl49
+Kgt-v.Late Harvest Chard 75cl 11,5% 37,803,1512,00pdl50
+Vahesumma :
+ 
+ 
+1 083,30
+ 
+1 300,00
+Regalia Kaubandus OÜ 8.07.2016Dunkri Kaubanduse AS  Õismäe tee 107 
+Kood Kauba nimetus Hind SummaKogusÜhik
+Kpn-v.Cast.Tomaiolo Orv 75cl 12% 4,324,321,00pdl51
+Kpn-v.Ch.Fonfroide v 75cl 12,5% 5,305,301,00pdl52
+Kpn-v.F.Hoffner Spätlese 75cl 8,5% 11,485,742,00pdl53
+Kpn-v.Gran Castillo Mosc 75cl 11% 43,203,6012,00pdl54
+Kpn-v.Gran Castillo Nova-Mosc 300cl 10,5% 42,4010,604,00pdl55
+Kpn-v.Gran Castillo Viu/Char 75cl 11% 43,203,6012,00pdl56
+Kpn-v.San Valentin Parell 75cl 10,5% 13,804,603,00pdl57
+Kpn-v.Torres San Valentin 300cl 11% 51,2012,804,00pdl58
+Kpn-v.Vina Esmeralda 75cl 11,5% 11,205,602,00pdl59
+Mait.viin Nipernaadi Laimi-Mets 50cl 37,5% 12,486,242,00pdl60
+Mait.viin Nipernaadi Must-Rabar 50cl 37,5% 12,486,242,00pdl61
+Kokku :
+Käibemaks :
+Maksumus :
+1 334,36
+266,87
+1 601,20
+

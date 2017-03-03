@@ -1,0 +1,8 @@
+Küsib failinime
+Failinimi saadetakse PDF-parserile ning salvestatakse .txt faili
+.txt fail loetakse sisse
+Loetakse sisse hinnakiri
+Küsitakse kliendikoodi
+.txt failist eraldatakse müügitellimuseread
+müügitellimusereast võetakse kogused
+luuakse otsingusõnad

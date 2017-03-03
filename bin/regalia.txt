@@ -1,0 +1,70 @@
+Dunkri Kaubanduse AS Regalia Kaubandus OÜ Õismäe tee 107 12.10.2015
+Kood Kauba nimetus Ühik Kogus Hind Summa
+1 Brändi Belii Aist BL 50cl 37% pdl 3,00 6,32 18,96
+2 Brändi Ciornii Aist Ciqoqne Noir 50cl 40% pdl 1,00 7,40 7,40
+3 Brändi JP Chenet XO 70cl 36% pdl 3,00 10,94 32,82
+4 Brändi Magistr VSOP 50cl 36% pdl 2,00 7,41 14,82
+5 Brändi Sarajishvili 3Y 50cl 40% pdl 1,00 9,66 9,66
+6 Brändi Torres 10Y 70cl 38% pdl 3,00 12,80 38,40
+7 Brändi Torres 10Y 70cl 38% tuubis pdl 3,00 13,60 40,80
+8 Brändi Torres 20Y 70cl 40% pdl 1,00 24,18 24,18
+9 Muu p.j.Aramis VSOP 20cl 30% tk 6,00 2,20 13,20
+10 Muu p.j.Aramis VSOP 50cl 30% pdl 3,00 5,30 15,90
+11 Konjak Frapin VS 70cl 40% pdl 1,00 21,95 21,95
+12 Ar.p.v.Bollino p 75cl 10% pdl 6,00 2,12 12,72
+13 Ar.p.v.Hõõgvein Kirsi 75cl 10,5% pdl 3,00 2,26 6,78
+14 Ar.p.v.Kardinali 75cl 10% pdl 3,00 2,08 6,24
+15 Ar.p.v.Monte Cristo p 75cl 10% pdl 6,00 2,20 13,20
+16 Ar.v.j.Sangria 150cl 9% pdl 3,00 4,15 12,45
+17 GT-Lauav.Australian Bush C/Sh 300cl 13,5% pdl 1,00 9,38 9,38
+18 GT-Lauav.Teliani Vall.Kindzmarauli 75cl 12% pdl 1,00 7,34 7,34
+19 GT-Lauav.Vina Maipo Shiraz 75cl 13% pdl 1,00 3,78 3,78
+20 Kgt-v.JP.Chenet p p/m 300cl 11,5% pdl 2,00 12,09 24,18
+21 Kgt-v.JP.Chenet p.p/m 75cl 12% pdl 6,00 3,78 22,68
+22 Kgt-v.Late Harvest Cabernet 300cl 12% pdl 2,00 9,44 18,88
+23 Kpn-v.Castellani Chianti 75cl 12,5% pdl 3,00 4,08 12,24
+24 Kpn-v.EL Coto Cr 75cl 13% pdl 1,00 6,80 6,80
+25 Kpn-v.Gran Castillo C/S 75cl 12,5% pdl 12,00 3,40 40,80
+26 Kpn-v.Gran Castillo Cel.Cab 75cl 13% pdl 3,00 4,15 12,45
+27 Kpn-v.Gran Castillo Shiraz 300cl 12% pdl 2,00 10,13 20,26
+28 Kpn-v.Gran Castillo Shiraz 75cl 12,5% pdl 12,00 3,40 40,80
+29 Kpn-v.Gran Castillo Temp 75cl 12,5% pdl 6,00 3,40 20,40
+30 Kpn-v.P.Chenet C/Syr 300cl 13% pdl 1,00 12,09 12,09
+31 Kpn-v.S.Valentin Garnacha 75cl 14% pdl 3,00 4,15 12,45
+32 Kpn-v.Torres Coronas 75cl 13% pdl 2,00 5,30 10,60
+33 Kpn-v.Torres Ibericos Cr 75cl 14% pdl 1,00 6,80 6,80
+34 Lauav.Tommasi Graticcio 75cl 13% pdl 1,00 7,18 7,18
+35 Al.vaba v.Torres Natureo Rose 75cl pdl 1,00 5,27 5,27
+36 Ar.p.v.Bollino r 75cl 10% pdl 6,00 2,12 12,72
+37 Ar.p.v.Monte Cristo r 75cl 12% pdl 6,00 2,20 13,20
+38 Rumm Tobacco Black 70cl 37,5% pdl 3,00 8,95 26,85
+39 Ar.p.v.Bollino v 75cl 10% pdl 6,00 2,12 12,72
+40 Ar.v.j.Nüwang 50cl 10% pdl 2,00 2,21 4,42
+41 GT-Lauav.Australian Bush Col/Char 300cl 13% pdl 2,00 9,38 18,76
+42 GT-Lauav.Sant.de Chile Gew/Sem 300cl 12,5% pdl 2,00 9,63 19,26
+43 GT-Lauav.Santiago de Chile Char 75cl 13,5% pdl 2,00 2,98 5,96
+44 Kgt-v.Franz Hoffner Riesling 300cl 8,5% pdl 1,00 10,80 10,80
+45 Kgt-v.Late Harvest Chard 300cl 11,5% pdl 2,00 9,44 18,88
+46 Kpn-v.Abtei Himmerod Riesl/Feinh 75cl 10% pdl 1,00 4,52 4,52
+47 Kpn-v.Blue Nun Rivaner 75cl 10% pdl 3,00 4,45 13,35
+48 Kpn-v.Cast.Tomaiolo Orv 75cl 12% pdl 1,00 3,61 3,61
+49 Kpn-v.Gran Castillo Mosc 75cl 11,5% pdl 6,00 3,40 20,40
+50 Kpn-v.Gran Castillo Nova-Mosc 300cl 10,5% pdl 2,00 10,13 20,26
+Vahesumma : 789,57
+947,50
+Dunkri Kaubanduse AS Regalia Kaubandus OÜ Õismäe tee 107 12.10.2015
+Kood Kauba nimetus Ühik Kogus Hind Summa
+51 Kpn-v.Gran Castillo Viura/Chard 75cl 11,5% pdl 6,00 3,40 20,40
+52 Kpn-v.San Valentin Parell 75cl 10,5% pdl 3,00 4,15 12,45
+53 Lauav.Bollino v 300cl 10% pdl 2,00 7,50 15,00
+54 Lauav.Tommasi Adorato 75cl 13% pdl 1,00 7,18 7,18
+55 Mait.viin Nipernaadi Johvika 50cl 37,5% pdl 3,00 5,67 17,01
+56 Mait.viin Nipernaadi Laimi-Mets 50cl 37,5% pdl 2,00 5,67 11,34
+57 Viin Jelzin 100cl 37,5% pdl 1,00 10,53 10,53
+58 Viski Catto`s Blended 70cl 40% pdl 1,00 7,92 7,92
+Kokku :
+Käibemaks :
+Maksumus :
+891,40
+178,28
+1 069,70
